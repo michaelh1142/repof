@@ -1,2 +1,3 @@
 filea
 feataure2
+feature3
